@@ -28,4 +28,4 @@ Once the sorting job is completed, you can view the sorted output using the foll
 Contributions are welcome to this project. If you find a bug or have a feature request, please create a new issue on GitHub. Pull requests are also welcome.
 
 License:
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for more details.
